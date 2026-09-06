@@ -33,7 +33,7 @@ puis **Commit changes** en haut à droite.
 | `date` | `AAAA-MM-JJ` | `2026-10-12` |
 | `time` | `HH:MM` sur 24 heures | `09:00` et non `9:00` |
 
-**Couleurs disponibles :** `purple`, `red`, `orange`, `green`, `blue`, `yellow`.
+**Couleurs disponibles :** `purple`, `red`, `orange`, `green`, `blue`, `yellow`, `white`.
 
 Un événement peut avoir autant de créneaux que nécessaire, y compris plusieurs le
 même jour. L'ordre n'a pas d'importance : le tri se fait à l'affichage.

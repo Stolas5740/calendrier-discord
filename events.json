@@ -1,50 +1,5 @@
 [
   {
-    "name": "Raid nocturne",
-    "color": "purple",
-    "url": "https://discord.com/channels/123456789012345678/223456789012345678",
-    "slots": [
-      {
-        "date": "2026-09-08",
-        "time": "21:00"
-      },
-      {
-        "date": "2026-09-09",
-        "time": "21:30"
-      }
-    ]
-  },
-  {
-    "name": "Tournoi interne",
-    "color": "red",
-    "url": "https://discord.com/channels/123456789012345678/334567890123456789",
-    "slots": [
-      {
-        "date": "2026-09-06",
-        "time": "18:00"
-      },
-      {
-        "date": "2026-09-06",
-        "time": "14:30"
-      }
-    ]
-  },
-  {
-    "name": "Réunion staff",
-    "color": "green",
-    "url": "https://discord.com/channels/123456789012345678/445678901234567890",
-    "slots": [
-      {
-        "date": "2026-09-06",
-        "time": "10:00"
-      },
-      {
-        "date": "2026-09-15",
-        "time": "20:00"
-      }
-    ]
-  },
-  {
     "name": "NFL Mexico City",
     "color": "green",
     "url": "https://discord.com/channels/1500876542333681774/1510994753389465772/1544411327144005692",
@@ -65,7 +20,7 @@
   },
   {
     "name": "NBA Paris — clôture ballot",
-    "color": "purple",
+    "color": "white",
     "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
     "slots": [
       {
@@ -76,7 +31,7 @@
   },
   {
     "name": "NBA Manchester — clôture ballot",
-    "color": "purple",
+    "color": "white",
     "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
     "slots": [
       {
