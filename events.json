@@ -62,5 +62,57 @@
         "time": "18:00"
       }
     ]
+  },
+  {
+    "name": "NBA Paris — clôture ballot",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
+    "slots": [
+      {
+        "date": "2026-09-06",
+        "time": "23:59"
+      }
+    ]
+  },
+  {
+    "name": "NBA Manchester — clôture ballot",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
+    "slots": [
+      {
+        "date": "2026-09-06",
+        "time": "23:59"
+      }
+    ]
+  },
+  {
+    "name": "NBA Paris — réponse TM",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
+    "slots": [
+      {
+        "date": "2026-09-14"
+      }
+    ]
+  },
+  {
+    "name": "NBA Paris — vente ballot",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
+    "slots": [
+      {
+        "date": "2026-09-15"
+      }
+    ]
+  },
+  {
+    "name": "NBA Manchester — vente ballot",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1536751215432433724/1536751908935573544",
+    "slots": [
+      {
+        "date": "2026-09-17"
+      }
+    ]
   }
 ]
