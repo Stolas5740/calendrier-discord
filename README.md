@@ -33,7 +33,18 @@ puis **Commit changes** en haut à droite.
 | `date` | `AAAA-MM-JJ` | `2026-10-12` |
 | `time` | `HH:MM` sur 24 heures | `09:00` et non `9:00` |
 
-**Couleurs disponibles :** `purple`, `red`, `orange`, `green`, `blue`, `yellow`, `white`.
+**Les couleurs reflètent le potentiel du call**, jamais son risque :
+
+| Couleur | Sens |
+|---|---|
+| `purple` | 🟣 Excellent |
+| `green` | 🟢 Bon |
+| `yellow` | 🟡 Moyen |
+| `orange` | 🟠 Petit |
+| `red` | 🔴 Faible |
+| `white` | ⚪ échéance d'inscription (signup) |
+
+`blue` est disponible mais n'est attribué à rien pour l'instant.
 
 Un événement peut avoir autant de créneaux que nécessaire, y compris plusieurs le
 même jour. L'ordre n'a pas d'importance : le tri se fait à l'affichage.
