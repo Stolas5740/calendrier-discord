@@ -91,5 +91,20 @@
         "time": "11:00"
       }
     ]
+  },
+  {
+    "name": "James Blunt — Airplane Mode Tour 2027 (Londres/Manchester)",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1546775129495834734/1546775570422173796",
+    "slots": [
+      {
+        "date": "2026-09-08",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "11:00"
+      }
+    ]
   }
 ]
