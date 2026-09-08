@@ -106,5 +106,24 @@
         "time": "11:00"
       }
     ]
+  },
+  {
+    "name": "Miley Cyrus — Live at the Hollywood Bowl 2026",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1544775267761782895/1544776364505169920",
+    "slots": [
+      {
+        "date": "2026-09-08",
+        "time": "19:00"
+      },
+      {
+        "date": "2026-09-09",
+        "time": "19:00"
+      },
+      {
+        "date": "2026-09-10",
+        "time": "19:00"
+      }
+    ]
   }
 ]
