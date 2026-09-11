@@ -163,5 +163,16 @@
         "time": "11:00"
       }
     ]
+  },
+  {
+    "name": "Angleterre – Espagne",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1533815568271016006/1533816473917722665",
+    "slots": [
+      {
+        "date": "2026-09-11",
+        "time": "13:00"
+      }
+    ]
   }
 ]
