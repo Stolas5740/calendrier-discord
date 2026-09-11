@@ -71,7 +71,7 @@
     ]
   },
   {
-    "name": "Hayley Williams — vente générale EU",
+    "name": "🟠 Hayley Williams — EU",
     "color": "orange",
     "url": "https://discord.com/channels/1500876542333681774/1544412178055168091/1544412975937359965",
     "slots": [
@@ -82,7 +82,7 @@
     ]
   },
   {
-    "name": "Hayley Williams — vente générale UK",
+    "name": "🟠 Hayley Williams — UK",
     "color": "orange",
     "url": "https://discord.com/channels/1500876542333681774/1544412178055168091/1544412975937359965",
     "slots": [
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "name": "Stevie Wonder — UK Tour 2026",
+    "name": "🟠 Stevie Wonder",
     "color": "orange",
     "url": "https://discord.com/channels/1500876542333681774/1546948403198562394/1546949901387046963",
     "slots": [
@@ -165,13 +165,35 @@
     ]
   },
   {
-    "name": "Angleterre – Espagne",
+    "name": "🟣 Angleterre – Espagne",
     "color": "purple",
     "url": "https://discord.com/channels/1500876542333681774/1533815568271016006/1533816473917722665",
     "slots": [
       {
         "date": "2026-09-11",
         "time": "13:00"
+      }
+    ]
+  },
+  {
+    "name": "⚪ Radiohead — clôture inscription",
+    "color": "white",
+    "url": "https://discord.com/channels/1500876542333681774/1546542175456858122/1546542839872094318",
+    "slots": [
+      {
+        "date": "2026-09-10",
+        "time": "09:00"
+      }
+    ]
+  },
+  {
+    "name": "🟢 Radiohead",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1546542175456858122/1546542839872094318",
+    "slots": [
+      {
+        "date": "2026-09-15",
+        "time": "09:00"
       }
     ]
   }
