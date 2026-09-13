@@ -196,5 +196,39 @@
         "time": "09:00"
       }
     ]
+  },
+  {
+    "name": "⚪ Charli XCX — clôture inscription",
+    "color": "white",
+    "url": "https://discord.com/channels/1500876542333681774/1548773331203784904/1548773871660834980",
+    "slots": [
+      {
+        "date": "2026-09-15",
+        "time": "18:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Charli XCX",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1548773331203784904/1548773871660834980",
+    "slots": [
+      {
+        "date": "2026-09-16",
+        "time": "10:00"
+      },
+      {
+        "date": "2026-09-16",
+        "time": "12:00"
+      },
+      {
+        "date": "2026-09-17",
+        "time": "10:00"
+      },
+      {
+        "date": "2026-09-18",
+        "time": "10:00"
+      }
+    ]
   }
 ]
