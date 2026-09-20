@@ -310,5 +310,58 @@
         "time": "10:00"
       }
     ]
+  },
+  {
+    "name": "🟣 Metallica",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1550500469674086430/1550502276408279111",
+    "slots": [
+      {
+        "date": "2026-09-21",
+        "time": "18:00"
+      },
+      {
+        "date": "2026-09-21",
+        "time": "20:00"
+      },
+      {
+        "date": "2026-09-25",
+        "time": "18:00"
+      }
+    ]
+  },
+  {
+    "name": "🟢 Espagne – Angleterre",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1550501249160454174/1550503729369714861",
+    "slots": [
+      {
+        "date": "2026-09-22"
+      },
+      {
+        "date": "2026-09-23"
+      }
+    ]
+  },
+  {
+    "name": "⚪ Oasis — clôture inscription",
+    "color": "white",
+    "url": "https://discord.com/channels/1500876542333681774/1549780598053277746/1549781343054078063",
+    "slots": [
+      {
+        "date": "2026-09-17",
+        "time": "17:00"
+      }
+    ]
+  },
+  {
+    "name": "🟣 Oasis",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1549780598053277746/1549781343054078063",
+    "slots": [
+      {
+        "date": "2026-09-25"
+      }
+    ]
   }
 ]
