@@ -448,5 +448,46 @@
         "time": "16:00"
       }
     ]
+  },
+  {
+    "name": "🟣 Apple Music Hall",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1553067739466305637/1553067833557131425",
+    "slots": [
+      {
+        "date": "2026-09-28",
+        "time": "10:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Lizzy McAlpine — USA & Canada",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1552694369616662628/1552694607291093154",
+    "slots": [
+      {
+        "date": "2026-09-30",
+        "time": "16:00"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "16:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Lizzy McAlpine — EU & UK",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1552693720267100170/1552693991429111838",
+    "slots": [
+      {
+        "date": "2026-09-30",
+        "time": "10:00"
+      },
+      {
+        "date": "2026-10-02",
+        "time": "10:00"
+      }
+    ]
   }
 ]
