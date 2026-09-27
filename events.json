@@ -489,5 +489,42 @@
         "time": "10:00"
       }
     ]
+  },
+  {
+    "name": "🟢 Rugby World Cup 2027",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1510996331596873770/1553773509057191990",
+    "slots": [
+      {
+        "date": "2026-09-28",
+        "time": "04:00"
+      },
+      {
+        "date": "2026-10-01",
+        "time": "04:00"
+      }
+    ]
+  },
+  {
+    "name": "🟠 Kaaris",
+    "color": "orange",
+    "url": "https://discord.com/channels/1500876542333681774/1553774079134269560/1553774341139988511",
+    "slots": [
+      {
+        "date": "2026-09-28",
+        "time": "10:00"
+      }
+    ]
+  },
+  {
+    "name": "🟢 RÜFÜS DU SOL",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1553774904262922301/1553775637762670722",
+    "slots": [
+      {
+        "date": "2026-10-01",
+        "time": "18:00"
+      }
+    ]
   }
 ]
