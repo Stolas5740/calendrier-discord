@@ -632,5 +632,16 @@
         "time": "10:00"
       }
     ]
+  },
+  {
+    "name": "🟡 SDM — Stade de France",
+    "color": "yellow",
+    "url": "",
+    "slots": [
+      {
+        "date": "2026-10-01",
+        "time": "12:00"
+      }
+    ]
   }
 ]
