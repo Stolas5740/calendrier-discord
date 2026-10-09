@@ -704,5 +704,38 @@
         "time": "10:00"
       }
     ]
+  },
+  {
+    "name": "🟢 Tiakola",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1557824426999939233/1557825103985901588",
+    "slots": [
+      {
+        "date": "2026-10-09",
+        "time": "12:00"
+      }
+    ]
+  },
+  {
+    "name": "🟣 Fury – Joshua",
+    "color": "purple",
+    "url": "https://discord.com/channels/1500876542333681774/1557825788903038987/1557826926687682562",
+    "slots": [
+      {
+        "date": "2026-10-09",
+        "time": "13:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Bella Kay",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1557827584971116674/1557827813086863464",
+    "slots": [
+      {
+        "date": "2026-10-09",
+        "time": "11:00"
+      }
+    ]
   }
 ]
