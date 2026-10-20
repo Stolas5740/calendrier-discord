@@ -829,5 +829,16 @@
         "time": "18:00"
       }
     ]
+  },
+  {
+    "name": "🟡 Alyssa Grace — Minneapolis",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1562086956199051264/1562087157898944523",
+    "slots": [
+      {
+        "date": "2026-10-22",
+        "time": "17:00"
+      }
+    ]
   }
 ]
