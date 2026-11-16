@@ -971,5 +971,46 @@
         "time": "23:59"
       }
     ]
+  },
+  {
+    "name": "🟢 Chase & Status — Apple Music Hall",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1553067739466305637/1571951582441115798",
+    "slots": [
+      {
+        "date": "2026-11-19",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Kings of Leon — Apple Music Hall",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1553067739466305637/1571947596732170423",
+    "slots": [
+      {
+        "date": "2026-11-17",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-11-18",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "🟡 Stray Kids — Europe",
+    "color": "yellow",
+    "url": "https://discord.com/channels/1500876542333681774/1569650088307982438",
+    "slots": [
+      {
+        "date": "2026-11-18",
+        "time": "10:00"
+      },
+      {
+        "date": "2026-11-19",
+        "time": "10:00"
+      }
+    ]
   }
 ]
