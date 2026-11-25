@@ -1061,5 +1061,50 @@
         "time": "11:00"
       }
     ]
+  },
+  {
+    "name": "🟢 Écosse – Irlande (Six Nations)",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1575061188000219178",
+    "slots": [
+      {
+        "date": "2026-11-24",
+        "time": "15:00"
+      },
+      {
+        "date": "2026-11-26",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "🟢 Angleterre – Norvège",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1574087678251630632",
+    "slots": [
+      {
+        "date": "2026-11-25",
+        "time": "13:00"
+      },
+      {
+        "date": "2026-11-30",
+        "time": "13:00"
+      },
+      {
+        "date": "2026-12-04",
+        "time": "13:00"
+      }
+    ]
+  },
+  {
+    "name": "🟢 Charli XCX — Apple Music Hall",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1553067739466305637/1574379888163692634",
+    "slots": [
+      {
+        "date": "2026-11-25",
+        "time": "11:00"
+      }
+    ]
   }
 ]
