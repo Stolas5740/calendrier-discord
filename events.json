@@ -1106,5 +1106,54 @@
         "time": "11:00"
       }
     ]
+  },
+  {
+    "name": "🟢 Billie Eilish",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1574176323738542201",
+    "slots": [
+      {
+        "date": "2026-11-23",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-11-24",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-11-25",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-11-26",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "⚪ Billie Eilish — clôture inscription BST",
+    "color": "white",
+    "url": "https://discord.com/channels/1500876542333681774/1574176323738542201",
+    "slots": [
+      {
+        "date": "2026-11-23",
+        "time": "22:59"
+      }
+    ]
+  },
+  {
+    "name": "🟢 ADÉLA",
+    "color": "green",
+    "url": "https://discord.com/channels/1500876542333681774/1540286353642758226",
+    "slots": [
+      {
+        "date": "2026-11-24",
+        "time": "11:00"
+      },
+      {
+        "date": "2026-11-25",
+        "time": "11:00"
+      }
+    ]
   }
 ]
